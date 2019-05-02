@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+
+body {
+  background: #7e6991;
+  font-family: 'Cinzel', serif;
+}
+
+img {
+  margin-top: 1vw;
+  width: 250px;
+  height: 250px;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.wrapper h1 {
+  font-size: 4rem;
+  color: #a3a4be;
+}
+
+.sub-wrapper {
+  background: #e0e6e9;
+  color: #6d4d6e;
+}
+.wrapper h2 {
+  font-size: 2rem;
+  color: #a3a4be;
+}
